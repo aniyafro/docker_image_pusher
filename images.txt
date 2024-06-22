@@ -5,3 +5,4 @@ lscr.io/linuxserver/jackett
 emby/embyserver:latest
 lscr.io/linuxserver/chromium
 lscr.io/linuxserver/plex
+kodcloud/kodbox:latest
