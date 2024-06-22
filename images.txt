@@ -15,3 +15,4 @@ photoprism/photoprism
 kl3x/xunlei
 spikhalskiy/zerotier
 jeessy/ddns-go
+chenhw2/aliyun-ddns-cli
