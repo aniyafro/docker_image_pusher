@@ -6,3 +6,11 @@ emby/embyserver:latest
 lscr.io/linuxserver/chromium
 lscr.io/linuxserver/plex
 kodcloud/kodbox:latest
+gotson/komga
+lscr.io/linuxserver/qbittorrent
+xhofe/alist
+apachewebdav/apachewebdav
+ghcr.io/estrellaxd/auto_bangumi
+photoprism/photoprism
+kl3x/xunlei
+spikhalskiy/zerotier
