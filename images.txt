@@ -3,3 +3,4 @@ nyanmisaka/jellyfin
 lscr.io/linuxserver/radarr
 lscr.io/linuxserver/jackett
 emby/embyserver:latest
+lscr.io/linuxserver/chromium
