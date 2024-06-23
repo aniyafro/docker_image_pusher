@@ -18,3 +18,4 @@ jeessy/ddns-go
 chenhw2/aliyun-ddns-cli
 lovechen/embyserver
 ghcr.io/hotio/sonarr:latest
+nastool/nas-tools
