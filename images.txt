@@ -20,3 +20,4 @@ lovechen/embyserver
 ghcr.io/hotio/sonarr:latest
 nastool/nas-tools
 dysf888/nas-tools
+zonty/nas-tools:2.9.1
