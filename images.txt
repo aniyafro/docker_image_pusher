@@ -24,3 +24,4 @@ flik007/nastools-fixed
 lscr.io/linuxserver/transmission
 andrewmhub/transmission-tracker-add
 chisbread/transmission
+linkease/linkease:latest
