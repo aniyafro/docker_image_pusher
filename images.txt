@@ -22,3 +22,4 @@ nastool/nas-tools
 dysf888/nas-tools
 flik007/nastools-fixed
 lscr.io/linuxserver/transmission
+andrewmhub/transmission-tracker-add
