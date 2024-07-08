@@ -25,4 +25,4 @@ lscr.io/linuxserver/transmission
 andrewmhub/transmission-tracker-add
 chisbread/transmission
 linkease/linkease:latest
-carseason/mfun
+carseason/mfun:laster
