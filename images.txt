@@ -26,3 +26,4 @@ andrewmhub/transmission-tracker-add
 chisbread/transmission
 linkease/linkease:latest
 carseason/mfun:laster
+natfrp/launcher
