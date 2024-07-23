@@ -28,3 +28,4 @@ linkease/linkease:latest
 carseason/mfun:laster
 natfrp/launcher
 ypptec/nascab
+gdy666/lucky
