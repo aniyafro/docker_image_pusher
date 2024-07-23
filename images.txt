@@ -30,3 +30,4 @@ natfrp/launcher
 ypptec/nascab
 gdy666/lucky
 linkease/ddnsto
+jxxghp/moviepilot
