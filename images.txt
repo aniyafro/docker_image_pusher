@@ -29,3 +29,4 @@ carseason/mfun:laster
 natfrp/launcher
 ypptec/nascab
 gdy666/lucky
+linkease/ddnsto
