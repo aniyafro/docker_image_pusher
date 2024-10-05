@@ -34,3 +34,4 @@ jxxghp/moviepilot
 johngong/kms
 teamspeak:latest
 fjlzwl/nastool
+aipan-netdisk-search
