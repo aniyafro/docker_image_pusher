@@ -36,4 +36,4 @@ teamspeak:latest
 fjlzwl/nastool
 fooololo/aipan-netdisk-search
 emby/embyserver:latest
-yydsxll/doube-itv
+yydsxll/doube-itv:latest
